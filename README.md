@@ -38,7 +38,7 @@ Identify the most affordable cover options across insurers and vehicles, and sho
 ## Repository Structure
 | Folder | Contents |
 |---|---|
-| `data/` | Raw and cleaned quote workbooks |
+| `data/` | Quote workbook (raw and cleaned sheets) |
 | `docs/` | Analysis summary |
 | `dashboard/` | Power BI file and preview |
 
