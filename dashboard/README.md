@@ -1,1 +1,1 @@
-
+Power BI dashboard comparing the quotes. Open `insurance_quote_dashboard.pbix` in Power BI Desktop. Select a cover type in the slicer for a like-for-like view. `dashboard_preview.png` and `.pdf` are static previews.
