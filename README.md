@@ -46,4 +46,4 @@ Identify the most affordable cover options across insurers and vehicles, and sho
 Excel, Power BI
 
 ## Author
-Brandon Mabaso
+Fani Mabaso
